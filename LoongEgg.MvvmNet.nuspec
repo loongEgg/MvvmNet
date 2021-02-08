@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>LoongEgg.MvvmNet</id>
+    <version>0.1.0</version>
+    <authors>LoongEgg</authors>
+    <owners>LoongEgg</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/loongEgg/MvvmNet</projectUrl> 
+    <description>A tiny mvvm framework for .Net framework(version ≥ 4.5)</description>
+    <releaseNotes>First Release(Experimental)</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>MVVM WPF</tags> 
+  </metadata>
+</package>
